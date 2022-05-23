@@ -5,4 +5,4 @@ Hi! I have decided to publish the website source code of the website pilzsuppe.x
 
 I used HTML, CSS and JavaScript to code the website.
 
-On a personal note: I'd appreciate it if you don't say you coded the website because I put a lot of work into it.
+On a personal note: I spent a lot of work and time in this project, please keep me as author.
